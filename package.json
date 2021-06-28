@@ -1,0 +1,15 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/otavioaugusto1/typescript.git",
+  "author": "Otávio Augusto Gonçalves Nogueira <otavio.a.nogueira@hotmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/express": "^4.17.12",
+    "typescript": "^4.3.4"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
